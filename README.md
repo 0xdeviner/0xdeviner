@@ -1,16 +1,29 @@
-### Hi there 👋
+#  Hitesh Patra 👨‍💻
 
-<!--
-**The-deviner/The-deviner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👽 Hello Worlld!; <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">
+---
+I'm **Hitesh Patra** aka **D E V I N E R**, 3rd Year Student at <a href="https://www.lpu.in/"> <b>Lovely Professional University</b>, Punjab</a> Pursuing my B.Tech in Computer science and i am passionate about **Cybersecurity** and **Information Security**.
 
-Here are some ideas to get you started:
+Head Over to your desired Directory,
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills:
+- VAPT
+- Networking
+- Linux
+- Web Application Penetration Testing 
+- CTF Player 
+- National Level Kabbadi Player
+
+## 📁 Repository
+
+- [whoami](https://the-deviner.github.io/Deviner/whoami)
+
+- [cd Writeups](https://the-deviner.github.io/Deviner/writeups)
+
+- [cat Contact](https://the-deviner.github.io/Deviner/contact)
+
+## 🤝 Let's Connect
+
+[![Twitter Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=%40Th3_D3v1n3r&logo=twitter&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FTh3_D3v1n3r)](https://twitter.com/Th3_D3v1n3r) [![Linkedin Badge](https://img.shields.io/twitter/url?color=1ca0f1&label=HITESH%20PATRA&logo=LinkedIn&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fhitesh-patra-aa7083174%2F)](https://www.linkedin.com/in/hitesh-patra-aa7083174/) [![Instagram](https://img.shields.io/twitter/url?color=1ca0f1&label=th3_d3v1n3r&logo=Instagram&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com%2Fth3_d3v1n3r%2F)](https://www.instagram.com/th3_d3v1n3r/)
+[![GitHub followers](https://img.shields.io/twitter/url?color=1ca0f1&label=The-deviner&logo=github&logoColor=1ca0f1&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FThe-deviner%3Ftab%3Dfollowers)](https://github.com/The-deviner?tab=followers)
+
