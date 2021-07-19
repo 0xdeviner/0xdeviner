@@ -2,13 +2,15 @@
 
 ## 👽 Hello Worlld!; <img src="https://github.com/abhishekapk/abhishekapk/blob/master/Assests/Hi.gif" width="29px">
 ---
-I'm **Hitesh Patra** aka **D E V I N E R**, 3rd Year Student at <a href="https://www.lpu.in/"> <b>Lovely Professional University</b>, Punjab</a> Pursuing my B.Tech in Computer science and i am passionate about **Cybersecurity** and **Information Security**.
+I'm **Hitesh Patra** aka **D E V I N E R**, 4th Year Student at <a href="https://www.lpu.in/"> <b>Lovely Professional University</b>, Punjab</a> Pursuing my B.Tech in Computer science and i am passionate about **Cybersecurity** and **Information Security**.
 
 Head Over to your desired Directory,
 
 ## 💻 Skills:
 - VAPT
 - Networking
+- Network Security
+- Open Source Investigation
 - Linux
 - Web Application Penetration Testing 
 - CTF Player 
